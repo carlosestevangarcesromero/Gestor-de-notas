@@ -1,1 +1,1 @@
-# Gestor-de-notas
+Este proyecto de gestor de notas es para poder dar un ejemplo de programación y de uso de la plataforma Github a mis estudiantes, no será un proyecto largo ya que solo es un ejemplo, por lo que no será necesario generar mas folders o files
